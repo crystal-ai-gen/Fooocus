@@ -1,10 +1,11 @@
 [
     {
         "name": "build",
-        "prompt": "UHD, 8K, ultra detailed, a cinematic photograph of {prompt}, beautiful lighting, great composition, dynamic, dramatic, haute couture, elegant, ornate clothing, High Fashion, Luxurious Elegance, {prompt}, extravagant, ornate, designer, opulent, picturesque, lavish, High contrast, ultra realistic, masterpiece, high detailed skin, uncensored",
+        "prompt": "UHD, 8K, ultra detailed, a cinematic photograph of {prompt}, beautiful lighting, great composition, dynamic, dramatic, haute couture, elegant, ornate clothing, High Fashion, Luxurious Elegance, {prompt}, extravagant, ornate, designer, opulent, picturesque, lavish, High contrast, ultra realistic, masterpiece, high detailed skin, uncensored, score_9, score_8_up, score_7_up, score_6_up",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, censored, mosaic censoring"
     },
 ]
+
 
 
 
