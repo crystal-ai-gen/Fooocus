@@ -1,0 +1,16 @@
+#3D anime 
+!wget -O /content/Fooocus/models/checkpoint/camelliamix25D_v3.safetensors https://civitai.com/api/download/models/161429
+#Semi-realistic
+!wget -O /content/Fooocus/models/checkpoint/xricamix_25DV56.safetensors https://civitai.com/api/download/models/82658
+#3D SEMI-REALISTIC [refiner]
+!wget -O /content/Fooocus/models/checkpoint/duchaitenReal3dNSFW_v10.safetensors https://civitai.com/api/download/models/262358
+#ANIME
+!wget -O /content/Fooocus/models/checkpoint/astranime_V6.safetensors https://civitai.com/api/download/models/334482
+#DETAILS BEST REFINNERE
+!wget -O /content/Fooocus/models/checkpoint/exquisiteDetails_art.safetensors https://civitai.com/api/download/models/140315
+#EROS
+!wget -O /content/Fooocus/models/checkpoint/cinemaerospgV4_cinemaerospgV4UF.safetensors https://civitai.com/api/download/models/100272
+#chinese
+!wget -O /content/Fooocus/models/checkpoint/3Guofeng3_v34.safetensors https://civitai.com/api/download/models/106289
+#chinese with dress
+!wget -O /content/Fooocus/models/checkpoint/majicmixRealistic_v7.safetensors https://civitai.com/api/download/models/176425
