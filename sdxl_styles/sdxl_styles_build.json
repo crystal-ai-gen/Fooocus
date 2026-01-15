@@ -1,0 +1,7 @@
+[
+    {
+        "name": "build",
+        "prompt": "UHD, 8K, ultra detailed, a cinematic photograph of {prompt}, beautiful lighting, great composition, dynamic, dramatic, haute couture, elegant, ornate clothing, High Fashion, Luxurious Elegance, {prompt}, extravagant, ornate, designer, opulent, picturesque, lavish, High contrast",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+]
