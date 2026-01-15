@@ -1,0 +1,169 @@
+Gatherers
+Hunters
+Farmers
+Farm owners
+Tenant farmers
+Sharecroppers
+Vineyard workers
+Rice cultivators
+Orchard keepers
+Dairy workers
+Beekeepers
+Poultry keepers
+Fisherwomen
+Seaweed harvesters
+Weavers
+Spinners
+Dyers
+Tailors
+Seamstresses
+Embroiderers
+Lace makers
+Potters
+Basket weavers
+Leather workers
+Papermakers
+Candle makers
+Soap makers
+Brewers
+Bakers
+Mill workers
+Printers
+Bookbinders
+Artisans
+Homemakers
+Housekeepers
+Domestic servants
+Maids
+Nannies
+Wet nurses
+Midwives
+Childcare providers
+Elder caregivers
+Laundresses
+Cooks
+Cleaners
+Herbalists
+Healers
+Midwives
+Nurses
+Physicians
+Surgeons
+Apothecaries
+Pharmacists
+Dentists
+Psychologists
+Therapists
+Veterinarians
+Public health workers
+Priestesses
+Shamans
+Oracles
+Nuns
+Abbesses
+Temple workers
+Religious teachers
+Spiritual healers
+Monastics
+Ritual specialists
+Teachers
+Tutors
+Governesses
+Scholars
+Philosophers
+Mathematicians
+Astronomers
+Scribes
+Copyists
+Librarians
+Researchers
+Professors
+Storytellers
+Poets
+Writers
+Playwrights
+Painters
+Sculptors
+Musicians
+Singers
+Dancers
+Composers
+Actresses
+Film directors
+Designers
+Illustrators
+Fashion designers
+Traders
+Merchants
+Shopkeepers
+Market vendors
+Innkeepers
+Tavern owners
+Moneylenders
+Bankers
+Accountants
+Entrepreneurs
+Investors
+Real estate managers
+Corporate executives
+Queens and rulers
+Regents
+Advisors
+Diplomats
+Judges
+Lawyers
+Notaries
+Clerks
+Civil servants
+Policy makers
+Legislators
+Activists
+Warriors
+Soldiers
+Archers
+Cavalry members
+Strategists
+Spies
+Resistance fighters
+Militias
+Military leaders
+Defense engineers
+Peacekeepers
+Inventors
+Engineers
+Chemists
+Physicists
+Biologists
+Programmers
+Computer scientists
+Data analysts
+Astronauts
+Technicians
+Environmental scientists
+Robotics engineers
+Factory workers
+Textile workers
+Miners
+Assembly line workers
+Construction workers
+Welders
+Electricians
+Mechanics
+Machinists
+Shipbuilders
+Sailors
+Navigators
+Explorers
+Pilots
+Drivers
+Conductors
+Astronauts
+Logistics coordinators
+Abolitionists
+Suffragists
+Labor organizers
+Human rights activists
+Community leaders
+Social workers
+NGO workers
+Journalists
