@@ -1,4 +1,3 @@
-Enslaved laborers
 Concubines
 Temple prostitutes
 Forced domestic servants
@@ -6,17 +5,13 @@ Prostitutes
 Serfs
 Witches
 Enslaved women
-Beggars
 Indentured servants
 Fallen women
-Sweatshop laborers
-Child laborers
 Prostitutes
 Trafficked women
 Pornography industry
 Human trafficking victims
 Adult entertainers
-Surrogates
 Court dancers
 Tavern servers
 Mistresses
@@ -29,7 +24,6 @@ Photographic models
 Stripper
 exotic dancer
 Pornographic actor
-Cam model
 Adult content creator
 Sex worker
 Escort
@@ -38,11 +32,6 @@ Hostess
 Bottle service attendant
 Waitress
 Casino host
-Promotional model
-Runway model
-Lingerie model
-Swimsuit model
-Brand ambassador
 Influencer
 Cheerleader
 Ring girl
