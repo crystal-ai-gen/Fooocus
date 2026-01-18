@@ -1,10 +1,11 @@
 [
     {
         "name": "build",
-        "prompt": "UHD, 8K, ultra detailed, razor sharp, crystal clear, a cinematic full body photograph of {prompt}, professional studio lighting, high contrast, ultra realistic, masterpiece, best quality, high detailed skin texture, sharp focus, optically perfect lens, no blur, no distortion, deep focus, elegant, high fashion photography, score_9, score_8_up, score_7_up, score_6_up, pinoartstyle, uncensored"
-        "negative_prompt": "bra, covered nipples, underwear, censored, worst quality, low quality:1.1, ugly, deformed, noisy, blurry, lowres, bad anatomy, bad hands, distorted proportions, watermark, signature, logo, text, error, sketch, cartoon, abstract, flat lighting, extreme thinness, furry, halo"
+        "prompt": "UHD, 8K, ultra detailed, razor sharp, crystal clear, a cinematic full body photograph of {prompt}, professional studio lighting, high contrast, ultra realistic, masterpiece, best quality, high detailed skin texture, sharp focus, optically perfect lens, no blur, no distortion, deep focus, elegant, high fashion photography, score_9, score_8_up, score_7_up, score_6_up, pinoartstyle, uncensored, clean edges"
+        "negative_prompt": "bra, covered nipples, underwear, censored, worst quality, low quality:1.1, ugly, deformed, noisy, blurry, lowres, bad anatomy, bad hands, distorted proportions, watermark, signature, logo, text, error, sketch, rough lines, smudged paint, muddy colors, abstract, flat lighting, extreme thinness, furry, halo"
     }
 ]
+
 
 
 
