@@ -1,1 +1,1 @@
-__stance__ __direction__
+__stance__ __dirction__
