@@ -1,9 +1,10 @@
 [
   {
     "name": "build",
-    "prompt": "UHD, 8K, ultra detailed, razor sharp, crystal clear, editorial high fashion full body photograph of {prompt}, professional studio lighting, high contrast, ultra realistic, masterpiece, best quality, high detailed skin texture, sharp focus, optically perfect lens, deep focus, elegant, defined edges, micro details, clean texture definition, score_9, defined edges, score_8_up, score_7_up, score_6_up, uncensored, seductive smirk, pov sex",
+    "prompt": "UHD, 8K, ultra detailed, razor sharp, crystal clear, full body photograph of {prompt}, professional studio lighting, high contrast, ultra realistic, masterpiece, best quality, high detailed skin texture, sharp focus, optically perfect lens, deep focus, elegant, defined edges, micro details, clean texture definition, score_9, defined edges, score_8_up, score_7_up, score_6_up, uncensored, seductive smirk, pov sex",
     "negative_prompt": "bra, covered nipples, underwear, censored, worst quality, low quality:1.1, ugly, deformed, noisy, blurry, lowres, bad anatomy, bad hands, distorted proportions, watermark, signature, logo, text, error, sketch, rough lines, smudged paint, muddy colors, abstract, flat lighting, extreme thinness, furry, halo"
   }
 ]
+
 
 
