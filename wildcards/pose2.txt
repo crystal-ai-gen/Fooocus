@@ -1,1 +1,1 @@
-__head__ __arms__ __leg__ 
+__head__ __arms__ __leg__ __stance__
