@@ -2,4 +2,3 @@ Exposed neck
 Chin tilt down
 Chin tilt up
 Head tilt
-Over-the-shoulder look
