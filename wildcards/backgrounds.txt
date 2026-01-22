@@ -1,7 +1,3 @@
-Bedroom 
-Living room
-sofa 
-Kitchen 
 Balcony
 terrace 
 Bathroom  
@@ -20,19 +16,11 @@ Road trip stop
 Beach
 Secluded forest spot
 Hilltop
-viewpoint
 Garden
 park
 Private pool
 hot tub
-After-hours office
-Studio
 Restaurant
-bar after closing
-Backstage area
-Fashion show backstage
-Photoshoot set
-VIP area in a club
 Casino
 high-end bar
 Futuristic penthouse
