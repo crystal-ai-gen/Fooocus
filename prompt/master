@@ -74,9 +74,8 @@ showing a __stance__ posture.
 
 __dirction__,
 __focus__
-lazypos
-lazyneg
+(lazypos, lazyneg)
 lazynsfw
-lazympos
-lazyup
+(lazympos, lazyneg)
+
 ################################################
