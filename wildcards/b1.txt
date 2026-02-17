@@ -1,8 +1,6 @@
-Tailbone
-Sacrum
-Iliac Crests
-Anterior Superior Iliac Spine
-Hips
-Buttocks
-Waist
-Abdomen 
+Tailbone area level
+Sacrum area level
+Iliac Crests area level
+Anterior Superior Iliac Spine area level
+Hips area level
+Buttocks area level
