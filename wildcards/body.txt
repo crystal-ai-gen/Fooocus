@@ -1,5 +1,4 @@
-sodol body, Curvy hourglass, broader shoulders, narrow waist, thick thighs
-sodol body, top-heavy hourglass
-sodol body, athletic toned body
-sodol body, soft elegant figure
-
+body (sodol body, Curvy hourglass, broader shoulders, narrow waist, thick thighs)
+body (sodol body, top-heavy hourglass)
+body (sodol body, athletic toned body)
+body (sodol body, soft elegant figure)
