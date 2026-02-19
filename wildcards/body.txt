@@ -1,5 +1,2 @@
 body(toned, Curvy, broader shoulders, narrow waist, thick thighs)
-body(toned, top-heavy hourglass)
 body(toned, athletic toned body)
-body(toned, soft elegant figure)
-
