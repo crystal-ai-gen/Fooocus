@@ -1,48 +1,48 @@
 [
     {
-        "name": "mre-cinematic-dynamic",
-        "prompt": "epic cinematic shot of dynamic {prompt} in motion. main subject of high budget action movie. raw photo, motion blur. best quality, high resolution",
-        "negative_prompt": "static, still, motionless, sluggish. drawing, painting, illustration, rendered. low budget. low quality, low resolution"
+        "name": "Hyperdetailed-Colored-Pencil",
+        "prompt": "ArsMJStyle, Colored pencil hyperdetailed realism",
+        "negative_prompt": " "
     },
     {
-        "name": "mre-spontaneous-picture",
-        "prompt": "spontaneous picture of {prompt}, taken by talented amateur. best quality, high resolution. magical moment, natural look. simple but good looking",
-        "negative_prompt": "overthinked. low quality, low resolution"
+        "name": "MoriiMee-Gothic-Niji",
+        "prompt": "morimee_style, cute face, nun, latex, bdsm outfit",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-artistic-vision",
-        "prompt": "powerful artistic vision of {prompt}. breathtaking masterpiece made by great artist. best quality, high resolution",
-        "negative_prompt": "insignificant, flawed, made by bad artist. low quality, low resolution"
+        "name": "Ri-mix",
+        "prompt": "rimixa",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-dark-dream",
-        "prompt": "dark and unsettling dream showing {prompt}. best quality, high resolution. created by genius but depressed mad artist. grim beauty",
-        "negative_prompt": "naive, cheerful. comfortable, casual, boring, cliche. low quality, low resolution"
+        "name": "Short-Dressm",
+        "prompt": "side-tie dress, (color) dress",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-gloomy-art",
-        "prompt": "astonishing gloomy art made mainly of shadows and lighting, forming {prompt}. masterful usage of lighting, shadows and chiaroscuro. made by black-hearted artist, drawing from darkness. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
+        "name": "Underboob-Cutout-Dress",
+        "prompt": "dress, underboob, long sleeves",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-bad-dream",
-        "prompt": "picture from really bad dream about terrifying {prompt}, true horror. bone-chilling vision. mad world that shouldn't exist. best quality, high resolution",
-        "negative_prompt": "nice dream, pleasant experience. low quality, low resolution"
+        "name": "Dongtan-Dress",
+        "prompt": "dongtan dress",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-underground",
-        "prompt": "uncanny caliginous vision of {prompt}, created by remarkable underground artist. best quality, high resolution. raw and brutal art, careless but impressive style. inspired by darkness and chaos",
-        "negative_prompt": "photography, mainstream, civilized. low quality, low resolution"
+        "name": "Vixon-Classic-Art-Styles",
+        "prompt": "1dk, painting (medium)",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-surreal-painting",
-        "prompt": "surreal painting representing strange vision of {prompt}. harmonious madness, synergy with chance. unique artstyle, mindbending art, magical surrealism. best quality, high resolution",
+        "name": "ADRIANA",
+        "prompt": "ADR1AN4",
         "negative_prompt": "photography, illustration, drawing. realistic, possible. logical, sane. low quality, low resolution"
     },
     {
-        "name": "mre-dynamic-illustration",
-        "prompt": "insanely dynamic illustration of {prompt}. best quality, high resolution. crazy artstyle, careless brushstrokes, emotional and fun",
-        "negative_prompt": "photography, realistic. static, still, slow, boring. low quality, low resolution"
+        "name": "blus_sty",
+        "prompt": "SamDoesArts",
+        "negative_prompt": ""
     },
     {
         "name": "mre-undead-art",
