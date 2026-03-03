@@ -1,8 +1,8 @@
 [
     {
-        "name": "sai-3d-model",
-        "prompt": "professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting",
-        "negative_prompt": "ugly, deformed, noisy, low poly, blurry, painting"
+        "name": "SamDoesArts",
+        "prompt": "SamDoesArts",
+        "negative_prompt": ""
     },
     {
         "name": "sai-analog film",
