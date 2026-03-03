@@ -45,68 +45,68 @@
         "negative_prompt": ""
     },
     {
-        "name": "mre-undead-art",
-        "prompt": "long forgotten art created by undead artist illustrating {prompt}, tribute to the death and decay. miserable art of the damned. wretched and decaying world. best quality, high resolution",
-        "negative_prompt": "alive, playful, living. low quality, low resolution"
+        "name": "addmicrodetails",
+        "prompt": "addmicrodetails",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-elemental-art",
-        "prompt": "art illustrating insane amounts of raging elemental energy turning into {prompt}, avatar of elements. magical surrealism, wizardry. best quality, high resolution",
+        "name": "see-through",
+        "prompt": "<lora:see-through-silhouette-v3-illustriousxl-lora-nochekaiser:1>, see-through silhouette, solo, looking at viewer, blush, smile, dress, nipples, ass, grin, from side, see-through, no bra, no panties, all fours, finger to mouth, backlighting, top-down bottom-up, shushing",
         "negative_prompt": "photography, realistic, real. low quality, low resolution"
     },
     {
-        "name": "mre-space-art",
-        "prompt": "winner of inter-galactic art contest illustrating {prompt}, symbol of the interstellar singularity. best quality, high resolution. artstyle previously unseen in the whole galaxy",
-        "negative_prompt": "created by human race, low quality, low resolution"
+        "name": "Aesthetic Quality Modifiers",
+        "prompt": "masterpiece, best quality, very aesthetic",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-ancient-illustration",
-        "prompt": "sublime ancient illustration of {prompt}, predating human civilization. crude and simple, but also surprisingly beautiful artwork, made by genius primeval artist. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
+        "name": "bikini",
+        "prompt": "bandeau, lace bikini",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-brave-art",
-        "prompt": "brave, shocking, and brutally true art showing {prompt}. inspired by courage and unlimited creativity. truth found in chaos. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
+        "name": "Character-Design",
+        "prompt": "character_design, chrctrdsgn, concept art, reference sheet, underwear, unworn panties, unworn bra, multiple views, character profile, multiple expressions, 1girl, full body, <lora:character_design_illustrious:0.7>",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-heroic-fantasy",
-        "prompt": "heroic fantasy painting of {prompt}, in the dangerous fantasy world. airbrush over oil on canvas. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
+        "name": "Velvet-Whisper",
+        "prompt": "AF_VelvetWhisper, large_breasts,lace_trim,halterneck,  velvet,dress,lace corset,pelvic_curtain,garter_straps,thighhighs,  high_heels",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-dark-cyberpunk",
-        "prompt": "dark cyberpunk illustration of brutal {prompt} in a world without hope, ruled by ruthless criminal corporations. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
+        "name": "ill-LatticeLight-semi-r-sty",
+        "prompt": "AF_LatticeLight, large_breasts,navel,side_cutout,belly_chain,halterneck,  see-through dress,thighhighs,  high_heels",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-lyrical-geometry",
-        "prompt": "geometric and lyrical abstraction painting presenting {prompt}. oil on metal. best quality, high resolution",
-        "negative_prompt": "photography, realistic, drawing, rendered. low quality, low resolution"
+        "name": "Modern-anime-render",
+        "prompt": "modern_anime_render, high_detail, vivid_colors, soft_shading, dynamic_lighting, clean_lineart, atmospheric_depth, glossy_highlights, painterly_texture",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-sumi-e-symbolic",
+        "name": "Floral-Magnificence",
         "prompt": "big long brushstrokes of deep black sumi-e turning into symbolic painting of {prompt}. master level raw art. best quality, high resolution",
-        "negative_prompt": "photography, rendered. low quality, low resolution"
+        "negative_prompt": ""
     },
     {
-        "name": "mre-sumi-e-detailed",
-        "prompt": "highly detailed black sumi-e painting of {prompt}. in-depth study of perfection, created by a master. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
+        "name": "anime-ill-sty",
+        "prompt": "modern_anime_render, high_detail, vivid_colors, soft_shading, dynamic_lighting, clean_lineart, atmospheric_depth, glossy_highlights, painterly_texture",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-manga",
-        "prompt": "manga artwork presenting {prompt}. created by japanese manga artist. highly emotional. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
+        "name": "SleevedCropTopSkirt",
+        "prompt": "satin, white crop top, puffy long sleeves, layered skirt, white skirt, side slit, square neckline,",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-anime",
-        "prompt": "anime artwork illustrating {prompt}. created by japanese anime studio. highly emotional. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
+        "name": "shortdress",
+        "prompt": "side-tie dress, (color) dress",
+        "negative_prompt": ""
     },
     {
-        "name": "mre-comic",
-        "prompt": "breathtaking illustration from adult comic book presenting {prompt}. fabulous artwork. best quality, high resolution",
-        "negative_prompt": "deformed, ugly, low quality, low resolution"
+        "name": "ExpressiveBMTZZ",
+        "prompt": "expressivebmtzz",
+        "negative_prompt": ""
     }
 ]
